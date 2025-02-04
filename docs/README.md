@@ -68,4 +68,23 @@ This Agreement remains in effect until terminated by either party. Licensee may 
    - Combination of Licensor’s technology with third-party materials, or
    - Other specified exclusions.
 
----
+
+
+### 10. Disclaimer of Warranties
+
+THE PRODUCT IS PROVIDED "AS IS'' WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+
+### 11. Limitation of Liability
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES including but not limited to the following:
+
+(a) Nethermind may allow You to download third-party modules and/or extensions (together the “Extensions”) to the Nethermind Client. Such Extensions may contain harmful code. Nethermind provides no warranties as to the suitability or safety of such Extensions and shall not be liable for any loss suffered by You as a result of downloading and/or using such Extensions. You acknowledge that You should only install any Extension after careful consideration and at Your own risk.
+
+(b) Nethermind may provide modules (the “Modules”) that will allow You to interact with decentralized applications (the “Applications”) via scripts and code. Such Applications may include decentralized exchanges, decentralized games, lending platforms, gambling sites and so on. Nethermind provides no warranties as to the suitability or safety of any Module and/or Application and shall not be liable for any loss suffered by You as a result of downloading and/or using any Module and/or Application. Moreover, Nethermind shall not be liable for any loss suffered by reason of an incorrect implementation of any Module or as a result of any bug in the decentralized code.
+
+Nothing in this Agreement limits either party’s liability for the following:
+
+(i) Fraud or fraudulent misrepresentation.
+(ii) Death or personal injury caused by negligence.
+(iii) Licensee’s payment obligations and its obligations under the Indemnity clause.
+(iv) Any liability that cannot legally be limited.
