@@ -2,7 +2,7 @@
 
 These Additional Terms ("**Terms**"), read in conjunction with the Lesser General Public License 3.0 ("LGPL 3.0"), constitute the entirety of the agreement ("**Agreement**"), except as specified in Section 1A, between Demerzel Solutions Limited, a company incorporated in the United Kingdom ("**Licensor**," "**we**," "**us**," or "**our**," trading as "**Nethermind**"), and the end user ("**Licensee**," "**you**," or "**your**"). These Terms govern the use of the Nethermind Client, a high-performance, highly configurable Ethereum execution client built on .NET (the "**Product**").
 
-   ### 1. Construction
+   ### 1. Construction 
 
 These Terms are enacted by Nethermind under Section 7 of the LGPL 3.0 and shall be construed in harmony with its provisions. Licensee acknowledges and agrees to the restrictions outlined in the LGPL 3.0. In case of any conflict between these Terms and the LGPL 3.0, the latter shall prevail.
 
@@ -32,7 +32,7 @@ These Terms are enacted by Nethermind under Section 7 of the LGPL 3.0 and shall 
    1. Subject to these Terms and the LGPL 3.0, Licensor grants Licensee a worldwide, non-exclusive non-transferable, non-sub-licensable, revocable license to use the Product solely for accessing on-chain data on Ethereum. Licensee is responsible for deployment, configuration, and management of their infrastructure.
    2. The Product includes open-source components, each governed by its respective open-source license. No additional rights are granted beyond those expressly stated.
 
-   ### 4. Payment Terms
+   ### 4. Payment Terms 
    
    The Product is free to use, with no associated fees.
 
