@@ -84,7 +84,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE 
 
 Nothing in this Agreement limits either party’s liability for the following:
 
-(i) Fraud or fraudulent misrepresentation.
-(ii) Death or personal injury caused by negligence.
-(iii) Licensee’s payment obligations and its obligations under the Indemnity clause.
-(iv) Any liability that cannot legally be limited.
+- **I.** Fraud or fraudulent misrepresentation.  
+- **II.** Death or personal injury caused by negligence.  
+- **III.** Licensee’s payment obligations and its obligations under the Indemnity clause.  
+- **IV.** Any liability that cannot legally be limited.
