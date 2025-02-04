@@ -76,9 +76,9 @@ These Terms are enacted by Nethermind under Section 7 of the LGPL 3.0 and shall 
 
    TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR EXEMPLARY DAMAGES, INCLUDING BUT NOT LIMITED TO, DAMAGES FOR LOSS OF PROFITS, GOODWILL, USE, DATA, OR OTHER INTANGIBLE LOSSES including but not limited to the following:
 
-      (a) Nethermind may allow You to download third-party modules and/or extensions (together the “Extensions”) to the Nethermind Client. Such Extensions may contain harmful code. Nethermind provides no warranties as to the suitability or safety of such Extensions and shall not be liable for any loss suffered by You as a result of downloading and/or using such Extensions. You acknowledge that You should only install any Extension after careful consideration and at Your own risk.
+   1. Nethermind may allow You to download third-party modules and/or extensions (together the “Extensions”) to the Nethermind Client. Such Extensions may contain harmful code. Nethermind provides no warranties as to the suitability or safety of such Extensions and shall not be liable for any loss suffered by You as a result of downloading and/or using such Extensions. You acknowledge that You should only install any Extension after careful consideration and at Your own risk.
 
-      (b) Nethermind may provide modules (the “Modules”) that will allow You to interact with decentralized applications (the “Applications”) via scripts and code. Such Applications may include decentralized exchanges, decentralized games, lending platforms, gambling sites and so on. Nethermind provides no warranties as to the suitability or safety of any Module and/or Application and shall not be liable for any loss suffered by You as a result of downloading and/or using any Module and/or Application. Moreover, Nethermind shall not be liable for any loss suffered by reason of an incorrect implementation of any Module or as a result of any bug in the decentralized code.
+   2. Nethermind may provide modules (the “Modules”) that will allow You to interact with decentralized applications (the “Applications”) via scripts and code. Such Applications may include decentralized exchanges, decentralized games, lending platforms, gambling sites and so on. Nethermind provides no warranties as to the suitability or safety of any Module and/or Application and shall not be liable for any loss suffered by You as a result of downloading and/or using any Module and/or Application. Moreover, Nethermind shall not be liable for any loss suffered by reason of an incorrect implementation of any Module or as a result of any bug in the decentralized code.
       
 Nothing in this Agreement limits either party’s liability for the following:
 
@@ -86,3 +86,44 @@ Nothing in this Agreement limits either party’s liability for the following:
    **II.**  Death or personal injury caused by negligence.  
    **III.** Licensee’s payment obligations and its obligations under the Indemnity clause.  
    **IV.**  Any liability that cannot legally be limited.
+
+   ### 12.  Notices
+ 
+   All notices must be in writing and addressed to the other party or where the other party is a company or other organisation, to the other party’s legal department and primary point of contact. The email address for notices being sent to the Licensor is legalnotices@nethermind.io. Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
+ 
+   ### 13.  Amendments
+
+   1. The Licensor may make changes to these Terms from time to time or relicense the Product, which shall become effective immediately. 
+   2. Your continued use of the Product after such change will constitute your consent and agreement to such changes.
+ 
+   ### 14.  Governing Law
+ 
+   This Agreement shall be governed by and construed in accordance with the laws of England and Wales, without regard to its conflicts of law principles. The parties agree that the courts of England and Wales have exclusive jurisdiction in relation to the determination of disputes between them relating to the Agreement.
+ 
+   ### 15.  Export Control. 
+ 
+   The Product and related documentation may be subject to export control laws and regulations. Licensee may not access or use the Product, or any underlying information or technology except in full compliance with all applicable export control laws. None of the Product(s), or any underlying information or technology may be accessed or used:
+
+   1. by any individual or entity in any country to which the United States has embargoed goods; or
+      
+   2. by anyone on the U.S. Treasury Department’s list of specially designated nationals or the U.S Commerce Department’s list of prohibited countries or debarred or denied persons or entities. You will comply with all Applicable Laws related to export and reexport (“Export Control Laws”), including:
+
+      (a) the Export Administration Regulations (“EAR”) maintained by the U.S. Department of Commerce; 
+         
+      (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control; and 
+         
+      (c) the International Traffic in Arms Regulations (“ITAR”) maintained by the U.S. Department of State.
+
+   ### 16.  Miscellaneous 
+
+   1. Assignment- Licensees may not assign or transfer their rights or obligations under this Agreement.
+      
+   2. Force Majeure- Neither party nor their affiliates will be liable for any delay or failure to fulfil obligations under this Agreement due to causes beyond their reasonable control, including acts of God, telecommunications failures, cyber attacks, natural disasters, pandemics, government actions, terrorism, or war.
+      
+   3. Independent Contractors- This Agreement does not create any agency, partnership or joint venture between the parties.
+      
+   4. Waiver- Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
+      
+   5. Severability- If any term (or part of a term) of this Agreement is invalid, illegal, or unenforceable, the rest of the Agreement will remain in effect. This Agreement does not confer any benefits on any third party unless it expressly states that it does.
+      
+   6. Entire Agreement- This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings.
