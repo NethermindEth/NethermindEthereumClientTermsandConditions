@@ -1,76 +1,78 @@
 # Nethermind Client Additional Terms
 
-These Additional Terms ("**Terms**"), read in conjunction with the Lesser General Public License 3.0 ("LGPL 3.0"), constitute the entirety of the agreement ("**Agreement**"), except as specified in Section 1A, between Demerzel Solutions Limited, a company incorporated in the United Kingdom ("**Licensor**," "**we**," "**us**," or "**our**," trading as "**Nethermind**"), and the end user ("**Licensee**," "**you**," or "**your**"). These Terms govern the use of the Nethermind Client, a high-performance, highly configurable Ethereum execution client built on .NET (the "**Product**").
+These Additional Terms ("**Terms**"), read in conjunction with the Lesser General Public License 3.0 ("LGPL 3.0"), constitute the entirety of the agreement ("**Agreement**"), except as specified in Section 1A, between Demerzel Solutions Limited, a company incorporated in the United Kingdom ("**Licensor**," "**we**," "**us**," or "**our**," trading as "**Nethermind**"), and the end user ("**Licensee**," "**you**," or "**your**"). These Terms govern the use of the Nethermind Client, a high-performance, highly configurable Ethereum execution client built on .NET (the "**Product**"), provided by Licensor.
 
    ### 1. Construction 
 
-These Terms are enacted by Nethermind under Section 7 of the LGPL 3.0 and shall be construed in harmony with its provisions. Licensee acknowledges and agrees to the restrictions outlined in the LGPL 3.0. In case of any conflict between these Terms and the LGPL 3.0, the latter shall prevail.
+These Terms are being brought into force by Nethermind under section 7 of the LGPL 3.0 and shall be construed in a manner that is harmonious with the terms of the LGPL 3.0 licence.
+ 
+Licensee acknowledges and agrees to the restrictions on the use of the Product as laid out in the LGPL 3.0. In case of any conflict between these Terms and the terms of the LGPL 3.0 license, the terms of the LGPL 3.0 will prevail.
 
    #### 1A. Additional Terms for Google Cloud Marketplace ("GCM Terms")
 
-   These GCM Terms apply if you access the Product through the Google Cloud Marketplace ("GCM"). By using the Product, you agree to be bound by these Terms, the GCM Terms of Service ("GCM ToS"), and the LGPL 3.0 from the date you start using the Product.
+   These GCM Terms only apply to you if you are accessing the product through the Google Cloud Marketplace (“GCM”). By using the Product, you acknowledge that you have read, understood, and agreed to be bound by the terms and conditions of this Agreement as well as the [Google Cloud Marketplace Terms of Service](https://cloud.google.com/terms/marketplace/launcher?hl=en) (“**GCM ToS**”) and the **LGPL 3.0** from the date you start using the Product.
+   
+   You further understand and agree that Google has the right to terminate the Agreement in accordance with the GCM ToS as well as the Vendor Agreement (as defined in the GCM ToS) and it may do so with immediate effect in certain circumstances as detailed under the respective agreements.
 
-   Additionally, Google reserves the right to terminate this Agreement per the GCM ToS and the Vendor Agreement, with immediate effect under certain conditions.
 
    ### 2. Definitions
    
-   1. **Commercial Purposes** – Any activity undertaken with the intent to generate profit, revenue, or financial gain.
-   2. **Confidential Information** – Information disclosed by one party to the other under these Terms, excluding information independently obtained, lawfully received from a third party, or made public without breach.
-   3. **Derivative Works** – Any work based on or derived from the Product that includes modifications constituting an original work of authorship.
-   4. **Intellectual Property Rights** – Includes patents, copyrights, trade secrets, trademarks, and other recognized intellectual property rights worldwide.
-   5. **Licensee Data** – Data uploaded to the Product by or on behalf of Licensee, excluding Performance Data.
-   6. **Legal Process** – A legally binding data disclosure request, such as a subpoena, warrant, or court order.
-   7. **LGPL 3.0** – The GNU Lesser General Public License 3.0.
-   8. **Operating System (OS)** – System software managing hardware and software resources.
-   9. **Object Form** – A mechanically transformed or translated version of Source Form, including compiled object code and converted documentation.
-   10. **Performance Data** – Data regarding Licensee’s use of the Product, excluding personal data.
-   11. **Source Form** – The preferred form for modifications, including source code and configuration files.
-   12. **Third-Party Legal Proceeding** – A formal legal proceeding initiated by an unaffiliated third party.
+   1. "**Commercial Purposes**" refers to any activity undertaken with the intention of generating profit, revenue, or financial gain.
+   2. "**Confidential Information**" means information that one party (or an affiliate) discloses to the other party under these Terms but shall not include any information independently arrived at by the recipient, that is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Licensee Data is considered Licensee's Confidential Information.
+   3. "**Derivative Works**" shall mean any work, whether in Source or Object form, that is based on (or derived from) the Product and for which the editorial revisions, annotations, elaborations, or other modifications represent, as a whole, an original work of authorship.
+   4. "**Intellectual Property Rights**" means and includes all current and future worldwide rights under patent (including patent applications and disclosures), inventions, know-how, copyright, trade secret, trademark, and moral rights laws, and any other intellectual property rights recognized in any country or jurisdiction in the world.
+   5. "**Licensee Data**" means all data uploaded to the Product by Licensee or on Licensee’s behalf. Licensee Data does not include Performance Data (as defined in clause 2([10])).
+   6. "**Legal Process**" means a data disclosure request made under law, governmental regulation, court order, subpoena, warrant, governmental regulatory or agency request, or other valid legal authority, legal procedure, or similar process.
+   7. "**LGPL 3.0**" means the GNU Lesser General Public License 3.0.
+   8. "**Operating System**" or "**OS**" is a system software that manages computer hardware and software resources, and provides common services for computer programs.
+   9. "**Object Form**" form shall mean any form resulting from mechanical transformation or translation of a Source form, including but not limited to compiled object code, generated documentation, and conversions to other media types.
+   10. "**Performance Data**" means data relating to the Licensee’s use of the Product, excluding any personal data.
+   11. "**Source Form**" form shall mean the preferred form for making modifications, including but not limited to software source code, documentation source, and configuration files.
+   12. "**Third-Party Legal Proceeding**" means any formal legal proceeding filed by an unaffiliated third party before a court or government tribunal (including any appellate proceeding).
    
    ### 3. License
 
-   1. Subject to these Terms and the LGPL 3.0, Licensor grants Licensee a worldwide, non-exclusive non-transferable, non-sub-licensable, revocable license to use the Product solely for accessing on-chain data on Ethereum. Licensee is responsible for deployment, configuration, and management of their infrastructure.
-   2. The Product includes open-source components, each governed by its respective open-source license. No additional rights are granted beyond those expressly stated.
+   1. Subject to the terms and conditions of these Terms and the terms of the LGPL 3.0, the Licensor grants Licensee a worldwide, non-exclusive, non-transferable, non-sub-licensable, revocable license to use the Product solely for the purpose of accessing on-chain data on Ethereum. Licensee is solely responsible for the deployment, configuration, and ongoing management of their server and other underlying infrastructure. Licensee shall use the Product in accordance with any documentation provided by Licensor. Any deviations from recommended practices outlined in the documentation are at the sole risk of Licensee.
+   2. The Product includes open-source components, each subject to its respective open-source license. Except for the express licenses granted herein, no other licenses are granted, whether by implication or otherwise.
 
    ### 4. Payment Terms 
    
-   The Product is free to use, with no associated fees.
+   The Product is a free to use software and as such there is no consideration for its use.
 
    ### 5. Intellectual Property
 
-   1. The Product and all associated Intellectual Property Rights remain the exclusive property of Licensor, subject to LGPL 3.0. These Terms do not grant Licensee ownership rights.
-   2. Licensee retains all Intellectual Property Rights in Licensee Data.
-   3. Licensee may provide feedback on the Product, which Licensor may use without restriction or obligation.
+   1. The Product, including all associated Intellectual Property Rights, is and shall remain the exclusive property of the Licensor subject to the terms of the LGPL 3.0. These Terms do not convey any ownership rights, implied or otherwise, to the Licensee other than the limited right to use the Product in accordance with the terms of this Agreement.
+   2. As between the Licensee and Licensor, Licensee owns all Intellectual Property Rights in the Licensee Data.
+   3. At its option, Licensee may provide feedback and suggestions about the Product to the Licensor (“Feedback”). If Licensee provides Feedback, then Licensor and its affiliates may use that Feedback without restriction and without obligation to Licensee.
 
    ### 6. Data Processing
 
-   1. Licensor may collect and analyze Performance Data to improve the Product and generate anonymized statistics.
-   2. Each party shall comply with the Privacy Policy available at [hyperlink], which is incorporated into this Agreement.
-   3. Licensor will implement reasonable safeguards to protect Licensee Data from unauthorized access or loss.
-   4. Licensor will only access or use Licensee Data as necessary to provide the Product.
+   1. At its option, Licensee may provide feedback and suggestions about the Product to the Licensor (“Feedback”). If Licensee provides Feedback, then Licensor and its affiliates may use that Feedback without restriction and without obligation to Licensee.
+   2. Unless a separate agreement covering the subject matter of this Agreement is entered into by the parties that specifically references the data processing addendum, each party will comply with the Privacy Policy, as available at this address: [hyperlink]. The Privacy Policy is incorporated into this Agreement by reference.
+   3. Licensor will implement reasonable technical and organizational safeguards designed to protect Licensee Data against unauthorized loss, destruction, alteration, access, or disclosure.
+   4. Licensor will not access or use Licensee Data except as necessary to provide the Product.
 
    ### 7. Confidential Information
 
-   1. The recipient of Confidential Information shall not disclose it except to authorized affiliates, employees, or advisors bound by confidentiality obligations.
-   2. Disclosure of Confidential Information in response to a Legal Process is permitted, provided the recipient makes reasonable efforts to notify the disclosing party unless doing so would violate the law or pose a risk.
-   3. Licensee is responsible for handling third-party requests related to its use of the Product.
+   1. The recipient will not disclose the Confidential Information, except to affiliates, employees, agents or professional advisors who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential. The recipient will ensure that those people and entities use the received Confidential Information only to exercise rights and fulfil obligations under this Agreement, while using reasonable care to keep it confidential.
+   2. Notwithstanding any provision to the contrary in this Agreement, the recipient may also disclose Confidential Information to the extent required by applicable Legal Process; provided that the recipient uses commercially reasonable efforts to: (i) promptly notify the other party of such disclosure before disclosing; and (ii) comply with the other party's reasonable requests regarding its efforts to oppose the disclosure. Notwithstanding the foregoing, subsections (i) and (ii) above will not apply if the recipient determines that complying with (i) and (ii) could: (a) result in a violation of Legal Process; (b) obstruct a governmental investigation; or (c) lead to death or serious physical harm to an individual. As between the parties, Licensee is responsible for responding to all third party requests concerning its use of the Product.
 
    ### 8. Term and Termination
 
-   This Agreement remains in effect until terminated by either party. Licensee may terminate by providing 15 days' notice. Licensor may terminate at any time for any reason with 7 days' notice where feasible. Upon termination, Licensee must cease all use of the Product.
+   This Agreement is effective from the day you start using the Product until terminated by either party. Licensee may terminate this agreement by providing 15 days’ notice to the Licensor. Licensor reserves the right to terminate this license at any time for any reason and where reasonably feasible agrees to provide 7 days’ notice to the Licensee before termination. Upon termination, Licensee must cease all use of the Product.
 
    ### 9. Indemnity
 
-   1. Licensee shall indemnify and hold Licensor, its affiliates, and licensors harmless against any claims arising from Licensee’s breach of these Terms, LGPL 3.0, or applicable laws, as well as disputes between Licensee and its end users.
-   2. Indemnification does not apply to claims arising from:
-      - Licensor’s breach of this Agreement,
-      - Unauthorized modifications of Licensor’s technology,
-      - Combination of Licensor’s technology with third-party materials, or
-      - Other specified exclusions.
+   1. You will defend, indemnify, and hold harmless us, our affiliates and licensors, and each of their respective employees, officers, directors, and representatives from and against any losses arising out of or relating to any claim concerning: (a) breach of these terms or of the LGPL 3.0 or violation of applicable law by you; or (b) a dispute between you and any of your end users. 
+   2. This indemnification clause will not apply to the extent the underlying allegation arises from: (a) the indemnified party's breach of this Agreement; (b) modifications to the indemnifying party's technology by anyone other than the indemnifying party; (c) combination of the indemnifying party's technology with materials not provided by the indemnifying party; or (d) use of non-current or unsupported versions of the Product or OS.
+   3. The indemnity obligations under this clause are conditioned on the following:
+      1. The indemnified party must promptly notify the indemnifying party in writing of any allegation that preceded the Third-Party Legal Proceeding and cooperate reasonably with the indemnifying party to resolve the allegation and Third-Party Legal Proceeding. If breach of this clause prejudices the defense of the Third-Party Legal Proceeding, the indemnifying party's obligations will be reduced in proportion to the prejudice.
+      2. The indemnified party must tender sole control of the indemnified portion of the Third-Party Legal Proceeding to the indemnifying party, subject to the following: (i) the indemnified party may appoint its own non-controlling counsel, at its own expense; and (ii) any settlement requiring the indemnified party to admit liability, pay money, or take (or refrain from taking) any action, will require the indemnified party's prior written consent, not to be unreasonably withheld, conditioned, or delayed.
+   4. This section sets forth each party’s only rights and obligations under this Agreement for any third party’s Intellectual Property Rights.
 
    ### 10. Disclaimer of Warranties
 
-   THE PRODUCT IS PROVIDED "AS IS'' WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF THIRD-PARTY RIGHTS.
+   THE PRODUCT IS PROVIDED "AS IS'' WITHOUT WARRANTY OF ANY KIND. LICENSOR DISCLAIMS ALL WARRANTIES, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON INFRINGEMENT OF THIRD-PARTY RIGHTS.
 
    ### 11. Limitation of Liability
 
@@ -78,18 +80,13 @@ These Terms are enacted by Nethermind under Section 7 of the LGPL 3.0 and shall 
 
    1. Nethermind may allow You to download third-party modules and/or extensions (together the “Extensions”) to the Nethermind Client. Such Extensions may contain harmful code. Nethermind provides no warranties as to the suitability or safety of such Extensions and shall not be liable for any loss suffered by You as a result of downloading and/or using such Extensions. You acknowledge that You should only install any Extension after careful consideration and at Your own risk.
 
-   2. Nethermind may provide modules (the “Modules”) that will allow You to interact with decentralized applications (the “Applications”) via scripts and code. Such Applications may include decentralized exchanges, decentralized games, lending platforms, gambling sites and so on. Nethermind provides no warranties as to the suitability or safety of any Module and/or Application and shall not be liable for any loss suffered by You as a result of downloading and/or using any Module and/or Application. Moreover, Nethermind shall not be liable for any loss suffered by reason of an incorrect implementation of any Module or as a result of any bug in the decentralized code.
+   2. Nethermind may provide modules (the “Modules”) that will allow You to interact with decentralized applications (the “Applications”) via scripts and code. Such Applications may include decentralized exchanges, decentralized games, lending platforms, gambling sites and so on. Nethermind provides no warranties as to the suitability or safety of any Module and/or Application and shall not be liable for any loss suffered by You as a result of downloading and/or using any Module and/or Application. Moreover, Nethermind shall not be liable for any loss suffered by reason of an incorrect implementation of any Module or as a result of any bug in the decentralized code
       
-Nothing in this Agreement limits either party’s liability for the following:
-
-   **I.**   Fraud or fraudulent misrepresentation.  
-   **II.**  Death or personal injury caused by negligence.  
-   **III.** Licensee’s payment obligations and its obligations under the Indemnity clause.  
-   **IV.**  Any liability that cannot legally be limited.
+   Nothing in this Agreement limits either party’s liability for the following: (i) fraud or fraudulent misrepresentation; (ii) death or personal injury caused by negligence; (iii) Licensee’s payment obligations and its obligations under the Indemnity clause; or (iv) any liability that cannot legally be limited.
 
    ### 12.  Notices
  
-   All notices must be in writing and addressed to the other party or where the other party is a company or other organisation, to the other party’s legal department and primary point of contact. The email address for notices being sent to the Licensor is legalnotices@nethermind.io. Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
+   All notices must be in writing and addressed to the other party or where the other party is a company or other organisation, to the other party’s legal department and primary point of contact. The email address for notices being sent to the Licensor is <legalnotices@nethermind.io>. Notice will be treated as given on receipt as verified by written or automated receipt or by electronic log (as applicable).
  
    ### 13.  Amendments
 
@@ -102,17 +99,7 @@ Nothing in this Agreement limits either party’s liability for the following:
  
    ### 15.  Export Control. 
  
-   The Product and related documentation may be subject to export control laws and regulations. Licensee may not access or use the Product, or any underlying information or technology except in full compliance with all applicable export control laws. None of the Product(s), or any underlying information or technology may be accessed or used:
-
-   1. by any individual or entity in any country to which the United States has embargoed goods; or
-      
-   2. by anyone on the U.S. Treasury Department’s list of specially designated nationals or the U.S Commerce Department’s list of prohibited countries or debarred or denied persons or entities. You will comply with all Applicable Laws related to export and reexport (“Export Control Laws”), including:
-
-      (a) the Export Administration Regulations (“EAR”) maintained by the U.S. Department of Commerce; 
-         
-      (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control; and 
-         
-      (c) the International Traffic in Arms Regulations (“ITAR”) maintained by the U.S. Department of State.
+   The Product and related documentation may be subject to export control laws and regulations. Licensee may not access or use the Product, or any underlying information or technology except in full compliance with all applicable export control laws. None of the Product(s), or any underlying information or technology may be accessed or used (a) by any individual or entity in any country to which the United States has embargoed goods; or (b) by anyone on the U.S. Treasury Department’s list of specially designated nationals or the U.S. Commerce Department’s list of prohibited countries or debarred or denied persons or entities. You will comply with all Applicable Laws related to export and reexport (“Export Control Laws”), including (a) the Export Administration Regulations (“EAR”) maintained by the U.S. Department of Commerce; (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control; and (c) the International Traffic in Arms Regulations (“ITAR”) maintained by the U.S. Department of State.
 
    ### 16.  Miscellaneous 
 
