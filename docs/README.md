@@ -104,13 +104,8 @@ Licensee acknowledges and agrees to the restrictions on the use of the Product a
 ### 16.  Miscellaneous 
 
    1. Assignment- Licensees may not assign or transfer their rights or obligations under this Agreement.
-      
    2. Force Majeure- Neither party nor their affiliates will be liable for any delay or failure to fulfil obligations under this Agreement due to causes beyond their reasonable control, including acts of God, telecommunications failures, cyber attacks, natural disasters, pandemics, government actions, terrorism, or war.
-      
-   3. Independent Contractors- This Agreement does not create any agency, partnership or joint venture between the parties.
-      
-   4. Waiver- Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
-      
-   5. Severability- If any term (or part of a term) of this Agreement is invalid, illegal, or unenforceable, the rest of the Agreement will remain in effect. This Agreement does not confer any benefits on any third party unless it expressly states that it does.
-      
+   3. Independent Contractors- This Agreement does not create any agency, partnership or joint venture between the parties.  
+   4. Waiver- Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.   
+   5. Severability- If any term (or part of a term) of this Agreement is invalid, illegal, or unenforceable, the rest of the Agreement will remain in effect. This Agreement does not confer any benefits on any third party unless it expressly states that it does. 
    6. Entire Agreement- This Agreement constitutes the entire agreement between the parties and supersedes all prior understandings.
